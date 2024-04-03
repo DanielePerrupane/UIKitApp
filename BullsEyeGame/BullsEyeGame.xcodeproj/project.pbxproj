@@ -303,6 +303,8 @@
 				DEVELOPMENT_TEAM = ZFK4JX3BJ7;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_FILE = BullsEyeGame/Info.plist;
+				INFOPLIST_KEY_CFBundleDisplayName = "Bull's Eye";
+				INFOPLIST_KEY_LSApplicationCategoryType = "public.app-category.games";
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
 				INFOPLIST_KEY_UIMainStoryboardFile = Main;
@@ -332,6 +334,8 @@
 				DEVELOPMENT_TEAM = ZFK4JX3BJ7;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_FILE = BullsEyeGame/Info.plist;
+				INFOPLIST_KEY_CFBundleDisplayName = "Bull's Eye";
+				INFOPLIST_KEY_LSApplicationCategoryType = "public.app-category.games";
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
 				INFOPLIST_KEY_UIMainStoryboardFile = Main;
